@@ -1,0 +1,84 @@
+{
+  "float": [
+    {
+      "name": "px_100",
+      "value": "100px"
+    },
+    {
+      "name": "px_watch_size",
+      "value": "466px"
+    },
+    {
+      "name": "px_watch_radius",
+      "value": "233px"
+    },
+    {
+      "name": "px_list_size",
+      "value": "414px"
+    },
+    {
+      "name": "payment_amount_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "list_header_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "empty_list_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "char_chip_item_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "list_item_title_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "list_item_subtitle_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "min_chip_button_width",
+      "value": "40vp"
+    },
+    {
+      "name": "min_expense_day_label_width",
+      "value": "20vp"
+    },
+    {
+      "name": "margin_2",
+      "value": "2vp"
+    },
+    {
+      "name": "margin_4",
+      "value": "4vp"
+    },
+    {
+      "name": "margin_6",
+      "value": "6vp"
+    },
+    {
+      "name": "margin_8",
+      "value": "8vp"
+    },
+    {
+      "name": "margin_10",
+      "value": "10vp"
+    },
+    {
+      "name": "margin_12",
+      "value": "12vp"
+    },
+    {
+      "name": "margin_16",
+      "value": "16vp"
+    },
+    {
+      "name": "margin_24",
+      "value": "24vp"
+    }
+  ]
+}

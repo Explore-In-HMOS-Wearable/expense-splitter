@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "expense_list_title",
+      "value": "Trips"
+    },
+    {
+      "name": "new_trip",
+      "value": "New Trip"
+    },
+    {
+      "name": "new_expense",
+      "value": "New Expense"
+    },
+    {
+      "name": "add_trip",
+      "value": "Add Trip"
+    },
+    {
+      "name": "payers_list_title",
+      "value": "Payers"
+    },
+    {
+      "name": "trip_expenses",
+      "value": "Trip Expenses"
+    },
+    {
+      "name": "empty_trips_message",
+      "value": "No Trips yet.\nTap on\n'New Trip'\nto add a Trip"
+    },
+    {
+      "name": "empty_expenses_message",
+      "value": "No Expenses yet.\nTap on\n'New Expense'\nto add an expense"
+    },
+    {
+      "name": "new_trip_title",
+      "value": "Add New Trip"
+    },
+    {
+      "name": "trip_type",
+      "value": "Trip Type:"
+    },
+    {
+      "name": "days_label",
+      "value": "Days:"
+    },
+    {
+      "name": "day_label",
+      "value": "Day:"
+    },
+    {
+      "name": "new_expense_title",
+      "value": "Add New Expense"
+    },
+    {
+      "name": "payer_label",
+      "value": "Choose Payer:"
+    },
+    {
+      "name": "payed_days",
+      "value": "Payed in Day(s):"
+    },
+    {
+      "name": "expense_amount",
+      "value": "Expense Amount:"
+    },
+    {
+      "name": "add_expense",
+      "value": "Add Expense"
+    },
+    {
+      "name": "total_amount_label",
+      "value": "Total amount:"
+    },
+    {
+      "name": "delete_label",
+      "value": "Delete"
+    }
+  ]
+}
