@@ -128,7 +128,7 @@ export class AppDatabaseImpl extends AppDatabase {
     const database = await this.readyDatabase;
 
     let paymentInADay = amount;
-    // if more than 1 day, then split amount equally on each day.
+    // check when more than 1 day, then split amount equally on each day.
     if (days.length > 1) {
       paymentInADay = amount / days.length;
     }

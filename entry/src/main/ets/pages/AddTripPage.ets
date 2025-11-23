@@ -1,4 +1,4 @@
-import { LengthMetrics, ArcButton, ArcButtonOptions, ArcButtonStyleMode, ColorMetrics, } from '@kit.ArkUI';
+import { LengthMetrics, ArcButton, ArcButtonOptions, ArcButtonStyleMode, ColorMetrics } from '@kit.ArkUI';
 import { copyLabelOption, LabelOption, OptionBuilder } from '../components/OptionBuilder';
 import { SizeConstants } from '../constants/SizeConstants';
 import AddTripViewModel from '../viewmodel/AddTripViewModel';

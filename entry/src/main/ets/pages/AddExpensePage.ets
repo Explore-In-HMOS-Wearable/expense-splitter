@@ -1,4 +1,4 @@
-import { LengthMetrics, ArcButton, ArcButtonOptions, ArcButtonStyleMode, ColorMetrics, } from '@kit.ArkUI';
+import { LengthMetrics, ArcButton, ArcButtonOptions, ArcButtonStyleMode, ColorMetrics } from '@kit.ArkUI';
 import { copyLabelOption, LabelOption, OptionBuilder } from '../components/OptionBuilder';
 import { PayAmountCounter } from '../components/PayAmountCounter';
 import { SizeConstants } from '../constants/SizeConstants';
